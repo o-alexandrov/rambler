@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/elwinar/rambler/driver"
+	"github.com/o-alexandrov/rambler/driver"
 )
 
 // Environment is the execution environment of a command. It contains every information
