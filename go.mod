@@ -5,7 +5,7 @@ go 1.12
 require (
 	dario.cat/mergo v1.0.0
 	github.com/bradfitz/slice v0.0.0-20180809154707-2b758aa73013
-	github.com/client9/xson v0.0.0-20180321172152-0e50cdfc08c0
+	github.com/hjson/hjson-go/v4 v4.4.0
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/google/go-cmp v0.4.0

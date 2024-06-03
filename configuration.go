@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/client9/xson/hjson"
+	"github.com/hjson/hjson-go/v4"
 	"dario.cat/mergo"
 )
 
